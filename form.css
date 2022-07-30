@@ -1,0 +1,20 @@
+.obsh{
+    margin: 100px;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+body{
+    background-color: cornflowerblue;
+}
+fieldset{
+    width: 800px;
+    height: 400px;
+}
+#ss{
+    width: 30px;
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
